@@ -6,4 +6,6 @@ A description of the base case (how the recursion stops)
 How you might use the translate and rotate functions to your benefit. 
 
 Steps for being able to code the koch snowflake:
-  1. We would have to create an equilateral triangle. 
+  1. We would have to create an equilateral triangle with variables
+  2. Then within those triangles we would have to create another one within the triangles.
+  3. Making sure that we have variables for them would mean that there would be an easy way to manipulate the koch snowflakes into any size and rotation that we would like. 
